@@ -19,7 +19,7 @@ class App extends Component {
       folders: [],
       notes: []
     },
-    url: 'https://rocky-dawn-01034.herokuapp.com'
+    url: 'https://fathomless-peak-04548.herokuapp.com'
   }
   updateStore = () => {
     this.getFolders();
